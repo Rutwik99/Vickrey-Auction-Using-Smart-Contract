@@ -1,4 +1,10 @@
-# Blockchain Assignment-1
+# Vickrey Auction using Smart Contract on Ethereum Blockchain
+
+## Description
+- Specifications of the Smart Contract
+  - Second Price Auction - The ship must go to the who bids the highest, but he should only be charged the second-highest bid.
+  - Sealed Bid Auction - The bids should be kept private.
+  
 
 ## How To Run
 truffle test
